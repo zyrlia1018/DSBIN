@@ -22,5 +22,5 @@
 
 To run the code following isntructions can be followed.
 ```python
-python run_demo.py --name dsbin 
+python main.py --name dsbin 
 ```
