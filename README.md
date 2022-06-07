@@ -1,5 +1,8 @@
 #  Interpretable Structure-based Graph Neural Networks Based on Designed Inter-graph Attention Mechanisms for Predicting Protein-Ligand Interactions
 
+![image](https://user-images.githubusercontent.com/59766212/172277372-7b4f8e53-57d6-4e9e-ad9e-c9547778a87b.png)
+flow chart
+![image](https://user-images.githubusercontent.com/59766212/172277340-1655b47f-fde9-451e-ad7c-ff03fe125e8e.png)
 
 
 ## Installation:
