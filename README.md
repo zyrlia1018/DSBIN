@@ -1,4 +1,6 @@
-#  Interpretable Graph Interaction Network 
+#  Interpretable Structure-based Graph Neural Networks Based on Designed Inter-graph Attention Mechanisms for Predicting Protein-Ligand Interactions
+
+
 
 ## Installation:
 * Create a new conda environment using:\
